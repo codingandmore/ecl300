@@ -1,0 +1,1 @@
+java -cp lib/rxtx-2.2.2.jar:bin org.jensix.ecl300.Serial $*
